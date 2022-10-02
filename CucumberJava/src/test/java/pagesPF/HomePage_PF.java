@@ -16,6 +16,7 @@ public class HomePage_PF {
 	public HomePage_PF(WebDriver driver) {
 		this.driver=driver;
 		PageFactory.initElements(driver, this);
+		System.out.println("inside constructor");
 	}
 	
 	
