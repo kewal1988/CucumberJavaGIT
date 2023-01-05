@@ -1,4 +1,4 @@
-Feature: feature to test google search functionality kewal
+Feature: feature to test google search functionality
 
   @smoke
   Scenario: Validate google search is working
