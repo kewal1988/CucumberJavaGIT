@@ -1,4 +1,4 @@
-Feature: feature to test google search functionality TTT
+Feature: feature to test google search functionality PASS
 
   @smoke
   Scenario: Validate google search is working
